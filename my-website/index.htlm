@@ -1,16 +1,14 @@
-
-<html>
+index.htlm
+<htlm>
 <head> <title>CIJ students</title>
 </head>
 <body>
-<h1>The Shocking Truth!</h1>
-<p> sex, drugs, horror</p>
+<h1>The Shocking Truth!></hl>
 <p>All the scandal that has rocked the <a href="https://tcij.org/"> CIJ</a> to its <strong>core</strong></p>
-<img src="CIJ.JPG" alt="SCANDAL!">
+<img scr="CIJ.JPG" alt="SCANDAL!"
 <ul>
 <li>Cheese</li>
 <li>Grapes</li>
 <li>Wine</li>
-</ul>
 </body>
-</html>
+</htlm>
