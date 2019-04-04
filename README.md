@@ -1,3 +1,3 @@
 # CIjcourse
 
-Making first websitr at CIJ course
+Making first website at CIJ course
